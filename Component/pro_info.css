@@ -1,0 +1,43 @@
+.ProInfo{
+    padding: 1% 0px;
+
+    width: 100%;
+height: 100%;
+
+}
+.ProInfo h1{
+    font-size: 20px;
+}
+.ProInfo h3{
+    
+}
+.ProInfo b{
+    font: status-bar;
+    text-decoration: underline;
+    font-size: 30px;
+}
+.ProInfo div{
+    display: block;
+    padding: 3% 1%;
+    width: 70%;
+    height: 90%;
+}
+.ProInfo div img{
+    width: 30%;
+    height: 30%;
+
+}
+.ProInfo button{
+    font-size: 80%;
+    padding: 1% 2%;
+    border-radius: 10%;
+    border: none;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  background: skyblue;
+  color: black;
+}
+.ProInfo button:hover{
+    cursor: pointer;
+    background: rgb(109, 174, 200);
+
+}

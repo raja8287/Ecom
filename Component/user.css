@@ -1,0 +1,108 @@
+
+#po{
+
+    margin: auto;
+    width: 100%;
+    height: 100%;
+  }
+  #pos{
+   padding-top: 30px;
+    margin: auto;
+    width: 60%;
+    height: 400px;
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  #pos h5{
+    color: navy;
+  }
+  #pos img{
+    border-radius: 100px;
+    width: 100px;
+    height: 100px;
+  }
+  #pos p{
+    font-size: 10px;
+    cursor: pointer;
+    margin: auto;
+  border-radius: 100px;
+  margin-top: 10px;
+  padding: 10px;
+  width: 100px;
+  }
+  
+  #out{
+    background: blue;
+    font-size: 150px;
+  }
+  #out:hover{
+    background: #1877F2;
+    padding: 20px;
+  }
+  #logout {
+    text-transform: uppercase;
+  color: white;
+    background:#1877F2;
+  }
+  #pos p:hover{
+    background: #15f320;
+  }
+
+
+
+  #proin{
+    margin-top: 1%;
+  margin-bottom: 5%;
+  }
+  
+
+/* Login button*/
+#proin button{
+    margin-top: 10px;
+  border: rgb(0, 223, 0);
+  padding: 10px;
+    border-radius: 10px;
+    background: rgb(0, 223, 0);
+    color: blue;
+    box-shadow: 0px 0px 5px 1px greenyellow;
+    cursor: pointer;
+    
+  }
+
+
+  #prode{
+
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 1px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+    width: 300px;
+    height: 400px;
+  }
+
+  
+#proin input{
+    border-radius: 10px;
+    border: 1px solid skyblue;
+    padding: 10px;
+    box-shadow: 0px 0px 4px 1px skyblue;
+    margin-top: 10px;
+    color: black;
+  }
+  #proin p{
+    text-decoration: underline;
+    color: blue;
+    cursor: pointer;
+  }
+
+
+  @media only screen and (min-width: 900px)  {
+
+    
+
+
+
+  }
